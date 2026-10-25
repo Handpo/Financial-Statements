@@ -15,7 +15,7 @@ function Home() {
   </div>
 
   <p className="mt-10 mx-20 text-lg text-green-300">
-    We are a new company, year 2025 is our first full year of operations.
+    We are a new company, year 2026 is our first full year of operations.
     On this site, we will disclose the financial statementsfor our investors.
   </p>
   <div className='bg-yellow-900 m-10'>
