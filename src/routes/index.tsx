@@ -6,8 +6,8 @@ export const Route = createFileRoute('/')({ component: Home })
 function Home() {
   return (
    <div>
-  <header>
-    <h1>Welcome to Kissena Baked Goods</h1>
+  <header className="border-bborder-edge pb-6 mb-8">
+    <h1 className="font-display text-4xl leading-tight">Welcome to Kissena Baked Goods</h1>
     <p>Financial statements</p>
   </header>
   <p>
