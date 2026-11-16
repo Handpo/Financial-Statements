@@ -19,7 +19,7 @@ function IncomeStatement() {
 
   <tr>
     <th scope="row" className="text-left px-5 py-3 border-t border-edge font-normal">Net sales</th>
-    <td id="net-sales" className="text-right px-5 py-3 border-t border-edge tabular-nums whitespace-nowrap">$1,500,000</td>
+    <td id="net-sales" className="text-right px-5 py-3 border-t border-l border-edge tabular-nums whitespace-nowrap">$1,500,000</td>
   </tr>
   <tr>
     <th scope="row" className="text-left px-5 py-3 border-t border-edge font-normal">Cost of goods sold</th>
