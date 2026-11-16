@@ -25,6 +25,7 @@ function Home() {
   and 14 staff members.
 </p>
 <h2 className="font-display text-2xl mt-10 mb-3">What we bake</h2>
+<ul className="list-disc pl-6 space-y-2 text-ink-soft"></ul>
 <ul className="list-disc pl-6">
   <li>Sourdough, semolina, and rye loaves</li>
   <li>Kaiser rolls, hero bread, and dinner rolls</li>
