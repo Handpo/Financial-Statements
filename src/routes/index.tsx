@@ -22,7 +22,7 @@ function Home() {
 <p className="mt-6 text-lg text-ink-soft max-w-2xl">
   Kissena Baked Goods Inc. incorporated in New York State in late 20X4
   and opened in January 20X5. It has three ovens, four delivery vans,
-  and 14 staff members.
+  and 14 staff memberss.
 </p>
 <h2 className="font-display text-2xl mt-10 mb-3">What we bake</h2>
 <ul className="list-disc pl-6 space-y-2 text-ink-soft">
