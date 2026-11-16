@@ -25,8 +25,7 @@ function Home() {
   and 14 staff members.
 </p>
 <h2 className="font-display text-2xl mt-10 mb-3">What we bake</h2>
-<ul className="list-disc pl-6 space-y-2 text-ink-soft"></ul>
-<ul className="list-disc pl-6">
+<ul className="list-disc pl-6 space-y-2 text-ink-soft">
   <li>Sourdough, semolina, and rye loaves</li>
   <li>Kaiser rolls, hero bread, and dinner rolls</li>
   <li>Croissants, danishes, and morning pastry</li>
@@ -34,7 +33,7 @@ function Home() {
   <li>Seasonal orders, including hot cross buns and tsoureki</li>
 </ul>
 <h2 className="font-display text-2xl mt-10 mb-3">How a wholesale order is completed</h2>
-<ol className="list-decimal pl-6">
+<ol className="list-decimal pl-6 space-y-2 text-ink-soft">
   <li>A customer places a wholesale order.</li>
   <li>The manager prepares a bake sheet.</li>
   <li>Bakers prepare and bake the ordered goods.</li>
