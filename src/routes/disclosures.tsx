@@ -13,5 +13,6 @@ function Disclosures() {
       <p className="mt-2 text-lg text-ink-soft">December 31, 20X5</p>
       <p className="mt-4 text-ink-soft">Amounts are whole US dollars.</p>
     </div>
+    
   )
 }
